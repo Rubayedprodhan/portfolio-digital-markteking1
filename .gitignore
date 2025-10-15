@@ -1,1 +1,21 @@
-node_modules
+# Node.js dependencies
+node_modules/
+
+# Production build
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# npm / pnpm / bun lock files (optional)
+package-lock.json
+pnpm-lock.yaml
+bun.lockb
+
+# IDE / editor files
+.vscode/
+.idea/
